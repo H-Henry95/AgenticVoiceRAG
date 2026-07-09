@@ -1,0 +1,6 @@
+[
+  {"query": "How long is the refund window?", "must_include": ["30"]},
+  {"query": "Which plan includes SSO?", "must_include": ["enterprise"]},
+  {"query": "Is EU data residency available on the Team plan?", "must_include": ["enterprise"]},
+  {"query": "What are the standard support hours?", "must_include": ["9", "6"]}
+]
